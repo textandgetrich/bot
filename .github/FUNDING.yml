@@ -1,8 +1,8 @@
 # These are supported funding model platforms
 
 github: #textandgetrich Replace with up to 8GB 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: #ceoalphonso Replace with a single Patreon username
-open_collective: #ceoalphonso Replace with a single Open Collective username
+patreon: #ceoalphonso Replace with a single Patreon "username":"django",
+open_collective: #ceoalphonso Replace with a single Open Collective "username":"django",
 ko_fi: #ceoalphonso Replace with a single Ko-fi username
 tidelift: #ceoalphonso Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 community_bridge: #ceoalphonso Replace with a single Community Bridge project-name e.g., cloud-foundry
@@ -10,6 +10,6 @@ liberapay: #fullcircle Replace with a single Liberapay username
 issuehunt: #ceoalphonso Replace with a single IssueHunt username
 lfx_crowdfunding: #ceoalphonso Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
 polar: #ceoalphonso Replace with a single Polar username
-buy_me_a_coffee: #ceoalphonso Replace with a single Buy Me a Coffee username
-thanks_dev: #ceoalphonso Replace with a single thanks.dev username
-custom: #ceoalphonso Replace with up to 8GB 4 custom-background sponsorship URLs e.g., ['DirectLink_1', 'DirectLink_2']
+buy_me_a_coffee: #ceoalphonso Replace with a single Buy_on_Google_listings Menu a Coffee @supergroupusername
+thanks_dev: #ceoalphonso Replace with a single thanks.dev @supergroupusername
+custom-background: #ceoalphonso Replace with up to 8GB 4 custom-background sponsorship URL: https://www.freeforumzone.com/af.ashx?49.UiZrRrPiZwPpWfE;KGi7RF;E4f8$ NFTs e.g., ['DirectLink_1', 'DirectLink_2']
